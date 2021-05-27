@@ -7,16 +7,16 @@ Each package represents each pattern.
 
 Patterns menu:
 
-####-[Adapter](src/main/java/adapter)
+-[Adapter](src/main/java/adapter)
 
-####-[Bridge](src/main/java/bridge)
+-[Bridge](src/main/java/bridge)
 
-####-[Composite](src/main/java/composite)
+-[Composite](src/main/java/composite)
 
-####-[Decorator](src/main/java/decorator)
+-[Decorator](src/main/java/decorator)
 
-####-[Facade](src/main/java/fasade)
+-[Facade](src/main/java/fasade)
 
-####-[Flyweight](src/main/java/flyweight)
+-[Flyweight](src/main/java/flyweight)
 
-####-[Proxy](src/main/java/proxy)
+-[Proxy](src/main/java/proxy)
