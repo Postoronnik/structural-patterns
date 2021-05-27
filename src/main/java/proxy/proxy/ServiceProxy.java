@@ -1,7 +1,7 @@
-package deputy.proxy;
+package proxy.proxy;
 
-import deputy.service.Service;
-import deputy.service.ServiceInterface;
+import proxy.service.Service;
+import proxy.service.ServiceInterface;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor

@@ -1,8 +1,8 @@
-package deputy.start.point;
+package proxy.start.point;
 
-import deputy.proxy.ServiceProxy;
-import deputy.service.Service;
-import deputy.service.ServiceInterface;
+import proxy.proxy.ServiceProxy;
+import proxy.service.Service;
+import proxy.service.ServiceInterface;
 
 public class Main {
     public static void main(String[] args) {

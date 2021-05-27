@@ -1,4 +1,4 @@
-package deputy.service;
+package proxy.service;
 
 public interface ServiceInterface {
     void someOperation();

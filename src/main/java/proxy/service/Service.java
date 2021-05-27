@@ -1,4 +1,4 @@
-package deputy.service;
+package proxy.service;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
