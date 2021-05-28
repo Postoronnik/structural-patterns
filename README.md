@@ -23,7 +23,7 @@ Patterns menu:
 
 -[Work examples](docs/images)
 
-Short theoretical information about each creational pattern.
+Short theoretical information about each structural pattern.
 Presented on English and Ukraine languages
 
 Adapter/Адаптер
